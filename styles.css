@@ -1,57 +1,57 @@
 body {
-    margin: 0;
-    background: #111827;
-    font-family: 'Karla', sans-serif;
+  margin: 0;
+  background: #111827;
+  font-family: "Karla", sans-serif;
 }
 
 .container {
-    width: 400px;
-    height: 400px;  
-    margin: 70px auto 0px auto;
-    padding: 50px;
-    background: #4B5563;
+  width: 400px;
+  height: 400px;
+  margin: 70px auto 0px auto;
+  padding: 50px;
+  background: #4b5563;
 }
 
-.header-white{
-    color: #fff;
-    margin-bottom: 0px;
+.header-white {
+  color: #fff;
+  margin-bottom: 0px;
 }
 
 .header-orange {
-    color: #F59E0B;
-    margin-top: 0px;
-    margin-bottom: 0px;
+  color: #f59e0b;
+  margin-top: 0px;
+  margin-bottom: 0px;
 }
 
 h3 {
-    color: #D5D4D8;
-    margin-top: 10px;
-    margin-bottom: 30px;
+  color: #d5d4d8;
+  margin-top: 10px;
+  margin-bottom: 30px;
 }
 
 button {
-    font-family: inherit;
-    color: #fff;
-    background: #F59E0B;
-    padding: 10px 20px;
-    border: none;
-    border-radius: 5px;
-    margin-bottom: 30px;
+  font-family: inherit;
+  color: #fff;
+  background: #f59e0b;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  margin-bottom: 30px;
 }
 
 .divider {
-    text-align: center;
-    border-top: 1px solid #fff;
+  text-align: center;
+  border-top: 1px solid #fff;
 }
 
 .password-field {
-    background: #1F2937;
-    border: none;
-    width: 185px;
-    height: 30px;
-    margin: 30px 5px 0 5px;
-    color: #F59E0B;
-    text-align: center;
-    
-    font-family: inherit;
+  background: #1f2937;
+  border: none;
+  width: 185px;
+  height: 30px;
+  margin: 30px 5px 0 5px;
+  color: #f59e0b;
+  text-align: center;
+
+  font-family: inherit;
 }
