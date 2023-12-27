@@ -26,7 +26,13 @@ body {
 h3 {
   color: #d5d4d8;
   margin-top: 10px;
-  margin-bottom: 30px;
+  margin-bottom: 20px;
+}
+
+h5 {
+  color: #d5d4d8;
+  display: inline;
+  margin-right: 10px;
 }
 
 button {
@@ -39,6 +45,21 @@ button {
   margin-bottom: 30px;
 }
 
+#set-length-field {
+  background: #1f2937;
+  border: none;
+  width: 185px;
+  height: 30px;
+  color: #f59e0b;
+  text-align: center;
+  font-family: inherit;
+}
+
+#generate-button {
+  display: block;
+  margin-top: 20px;
+}
+
 .divider {
   text-align: center;
   border-top: 1px solid #fff;
@@ -49,9 +70,8 @@ button {
   border: none;
   width: 185px;
   height: 30px;
-  margin: 30px 5px 0 5px;
   color: #f59e0b;
   text-align: center;
-
   font-family: inherit;
+  margin: 30px 5px 0 5px;
 }
